@@ -65,3 +65,10 @@ layout: default
 
 *   **充值(Venta de Crédito/Recarga)**：极其方便！街边杂货店（Chinos/Kioscos）、超市、加油站、甚至报亭都有卖充值卡或提供电子充值服务。告诉店员你要充值的运营商（Claro/Tigo/Personal）和金额即可。**个人偏爱**：直接说“Recarga para [运营商名]， [金额] mil guaraníes”，比如“Recarga para Tigo, veinte mil guaraníes”。
 *   **套餐激活**：充值后，通常需要发送特定短信代码（如Claro发 `SUS` 到 `888`，Tigo发 `MM` 到 `555`）或使用运营商App/USSD菜单（如 `
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Paraguay eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/paraguay-data-plans)
